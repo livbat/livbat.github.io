@@ -1,0 +1,73 @@
+body {
+	padding: 20pt;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15pt;
+	/*background: #ebfafa;*/
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#28a4a4+0,ffac89+100 */
+background: #28a4a4; /* Old browsers */
+background: -moz-linear-gradient(top,  #28a4a4 0%, #ffac89 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #28a4a4 0%,#ffac89 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #28a4a4 0%,#ffac89 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28a4a4', endColorstr='#ffac89',GradientType=0 ); /* IE6-9 */
+
+}
+
+.big {
+	font-size: 15pt;
+	line-height: 60pt;
+}
+
+.header {
+	position: fixed;
+	font-style: italic;
+	right: 20pt;
+	top: -10pt;
+	font-size: 20pt;
+}
+
+.year {
+	padding-left: 20pt;
+}
+
+.project {
+	padding-left: 50pt;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	font-style: italic;
+	opacity: 50;
+	color: #28a4a4;
+}
+
+.sketch {
+	position: absolute;
+	left: 1000pt;
+}
+
+/*
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Olivia Battell</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+  <link rel="stylesheet" href="style.css?v=1.0">
+</head>
+
+<body>
+
+	<a href="index.html">home</a>
+	<br><br><br>
+
+</body>
+
+</html>
+
