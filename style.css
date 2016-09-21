@@ -8,6 +8,8 @@ background: #28a4a4; /* Old browsers */
 background: -moz-linear-gradient(top,  #28a4a4 0%, #ffac89 100%); /* FF3.6-15 */
 background: -webkit-linear-gradient(top,  #28a4a4 0%,#ffac89 100%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(to bottom,  #28a4a4 0%,#ffac89 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background-repeat: no-repeat;  
+background-color: #ffac89;
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28a4a4', endColorstr='#ffac89',GradientType=0 ); /* IE6-9 */
 
 }
@@ -47,6 +49,13 @@ a:hover {
 .sketch {
 	position: absolute;
 	left: 1000pt;
+}
+
+.hppics {
+	position: absolute;
+
+	top: 130px;
+	left: 550px;
 }
 
 /*
