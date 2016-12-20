@@ -1,13 +1,13 @@
 body {
 	padding: 20pt;
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 15pt;
+	font-size: 12pt;
 	/*background: #ebfafa;*/
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#28a4a4+0,ffac89+100 */
 }
 
 .big {
-	font-size: 15pt;
+	font-size: 14pt;
 	line-height: 50pt;
 	position: absolute;
 }
@@ -24,7 +24,7 @@ body {
 	font-style: italic;
 	right: 20pt;
 	top: -10pt;
-	font-size: 20pt;
+	font-size: 18pt;
 }
 
 .year {
