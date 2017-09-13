@@ -6,38 +6,51 @@ body {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#28a4a4+0,ffac89+100 */
 }
 
+
 .big {
-	font-size: 14pt;
-	line-height: 50pt;
+	font-size: 12pt;
+	line-height: 20pt;
 	position: absolute;
+}
+
+.big2 {
+	font-size: 12pt;
+	line-height: 20pt;
+	position: absolute;
+	background-color: #fff3dd;
+}
+
+.big3 {
+	font-size: 12pt;
+	line-height: 20pt;
+	position: absolute;
+	background-color: #ffeaea;
 }
 
 .content {
 	position: relative;
-	margin-top: -1050pt;
-	margin-left: 350pt;
+	margin-top: -300pt;
+	margin-left: 300pt;
 	line-height: 20pt;
 }
 
 .header {
 	position: fixed;
 	font-style: italic;
-	right: 20pt;
-	top: -10pt;
-	font-size: 18pt;
-}
-
-.year {
-	padding-left: 10pt;
+	right: 10pt;
+	top: 0pt;
+	font-size: 16pt;
+	padding-top:5pt;
 }
 
 .project {
-	padding-left: 30pt;
+	padding-left: 10pt;
+	padding-top:20pt;
 }
 
 a {
 	text-decoration: none;
-	color: black;
+	color: #000000;
 }
 
 a:hover {
