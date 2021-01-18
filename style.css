@@ -17,19 +17,19 @@ body {
 	font-size: 12pt;
 	line-height: 20pt;
 	position: absolute;
-	background-color: #fff3dd;
+	background-color: #ffffff;
 }
 
 .big3 {
 	font-size: 12pt;
 	line-height: 20pt;
 	position: absolute;
-	background-color: #ffeaea;
+	background-color: #ffffff;
 }
 
 .content {
 	position: relative;
-	margin-top: -300pt;
+	margin-top: -200pt;
 	margin-left: 300pt;
 	line-height: 20pt;
 }
