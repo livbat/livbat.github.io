@@ -29,7 +29,7 @@ body {
 
 .content {
 	position: relative;
-	margin-top: -200pt;
+	margin-top: -400pt;
 	margin-left: 300pt;
 	line-height: 20pt;
 }
@@ -45,12 +45,18 @@ body {
 
 .project {
 	padding-left: 10pt;
+	padding-top:10pt;
+}
+
+.projecttype {
+	padding-left: 0pt;
 	padding-top:20pt;
+	 text-decoration: underline;
 }
 
 a {
 	text-decoration: none;
-	color: #000000;
+	color: #0f3e3e;
 }
 
 a:hover {
